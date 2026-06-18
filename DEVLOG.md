@@ -1,10 +1,7 @@
----
 
 ## v1 — Communication Proof of Concept
 
 **Goal:** Validate the full data path — IMU → ESP-NOW → hub → UDP → PC — with the minimum hardware (2 nodes, DevKit boards, no custom PCB) before committing to a 9-node body suit build.
-
----
 
 ### [v1] Why ESP-NOW instead of direct Wi-Fi per node
 
